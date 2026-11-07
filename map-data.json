@@ -42,7 +42,36 @@
       "note": "",
       "lat": -4669,
       "lng": 3228.25,
-      "collectible": false
+      "collectible": false,
+      "hasRoute": true,
+      "isRace": true,
+      "route": [],
+      "race": {
+        "Лёгкий": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Средний": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Сложный": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Профи": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        }
+      }
     },
     {
       "id": "abdc5b4e-dc1d-4398-b859-7e74a9586f2b",
@@ -51,7 +80,36 @@
       "note": "",
       "lat": -7258,
       "lng": 3719.75,
-      "collectible": false
+      "collectible": false,
+      "hasRoute": true,
+      "isRace": true,
+      "route": [],
+      "race": {
+        "Лёгкий": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Средний": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Сложный": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Профи": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        }
+      }
     },
     {
       "id": "92efb8bc-2afe-4925-b98f-833f4621a332",
@@ -60,7 +118,36 @@
       "note": "",
       "lat": -5085.75,
       "lng": 3392,
-      "collectible": false
+      "collectible": false,
+      "hasRoute": true,
+      "isRace": true,
+      "route": [],
+      "race": {
+        "Лёгкий": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Средний": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Сложный": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Профи": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        }
+      }
     },
     {
       "id": "34811914-15b4-4ca8-9187-a4e376ccc2a2",
@@ -69,7 +156,36 @@
       "note": "",
       "lat": -7510.75,
       "lng": 4310.5,
-      "collectible": false
+      "collectible": false,
+      "hasRoute": true,
+      "isRace": true,
+      "route": [],
+      "race": {
+        "Лёгкий": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Средний": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Сложный": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Профи": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        }
+      }
     },
     {
       "id": "85335e03-aa52-483f-8db3-6eb965ca7718",
@@ -78,7 +194,36 @@
       "note": "",
       "lat": -7223.5,
       "lng": 4530.75,
-      "collectible": false
+      "collectible": false,
+      "hasRoute": true,
+      "isRace": true,
+      "route": [],
+      "race": {
+        "Лёгкий": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Средний": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Сложный": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Профи": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        }
+      }
     },
     {
       "id": "182d6a47-cace-4812-94fb-1f113e0a9045",
@@ -87,7 +232,36 @@
       "note": "",
       "lat": -5296,
       "lng": 3926,
-      "collectible": false
+      "collectible": false,
+      "hasRoute": true,
+      "isRace": true,
+      "route": [],
+      "race": {
+        "Лёгкий": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Средний": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Сложный": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Профи": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        }
+      }
     },
     {
       "id": "a8c9a03f-3e1a-434f-8160-0941d1c7bae7",
@@ -96,7 +270,36 @@
       "note": "",
       "lat": -5776.5,
       "lng": 2386.25,
-      "collectible": false
+      "collectible": false,
+      "hasRoute": true,
+      "isRace": true,
+      "route": [],
+      "race": {
+        "Лёгкий": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Средний": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Сложный": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Профи": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        }
+      }
     },
     {
       "id": "ae1abbb6-4aa8-41a8-9ee8-1504d7f8d372",
@@ -105,7 +308,36 @@
       "note": "",
       "lat": -5341.5,
       "lng": 3042.25,
-      "collectible": false
+      "collectible": false,
+      "hasRoute": true,
+      "isRace": true,
+      "route": [],
+      "race": {
+        "Лёгкий": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Средний": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Сложный": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Профи": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        }
+      }
     },
     {
       "id": "0f841ef8-80c4-495d-af67-d5a962951af0",
@@ -114,7 +346,36 @@
       "note": "",
       "lat": -6351.25,
       "lng": 3683.25,
-      "collectible": false
+      "collectible": false,
+      "hasRoute": true,
+      "isRace": true,
+      "route": [],
+      "race": {
+        "Лёгкий": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Средний": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Сложный": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Профи": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        }
+      }
     },
     {
       "id": "5f9de276-0b47-47ae-affa-66d972ee0e63",
@@ -123,7 +384,36 @@
       "note": "",
       "lat": -4745.75,
       "lng": 1721,
-      "collectible": false
+      "collectible": false,
+      "hasRoute": true,
+      "isRace": true,
+      "route": [],
+      "race": {
+        "Лёгкий": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Средний": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Сложный": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Профи": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        }
+      }
     },
     {
       "id": "ea4309c9-fe5f-4fa8-b081-33257bccdd66",
@@ -132,7 +422,36 @@
       "note": "",
       "lat": -6191,
       "lng": 3225,
-      "collectible": false
+      "collectible": false,
+      "hasRoute": true,
+      "isRace": true,
+      "route": [],
+      "race": {
+        "Лёгкий": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Средний": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Сложный": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Профи": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        }
+      }
     },
     {
       "id": "0b9595d8-396d-466a-ab3e-8f9e98450135",
@@ -141,7 +460,36 @@
       "note": "",
       "lat": -5970.5,
       "lng": 3394.75,
-      "collectible": false
+      "collectible": false,
+      "hasRoute": true,
+      "isRace": true,
+      "route": [],
+      "race": {
+        "Лёгкий": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Средний": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Сложный": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Профи": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        }
+      }
     },
     {
       "id": "21d4b448-048c-4482-9367-372e8fc587ee",
@@ -150,7 +498,36 @@
       "note": "",
       "lat": -5034,
       "lng": 4456.75,
-      "collectible": false
+      "collectible": false,
+      "hasRoute": true,
+      "isRace": true,
+      "route": [],
+      "race": {
+        "Лёгкий": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Средний": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Сложный": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Профи": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        }
+      }
     },
     {
       "id": "a593cf75-cd0e-4bde-9750-294cd0a71eb3",
@@ -159,7 +536,36 @@
       "note": "",
       "lat": -4676.75,
       "lng": 4865.5,
-      "collectible": false
+      "collectible": false,
+      "hasRoute": true,
+      "isRace": true,
+      "route": [],
+      "race": {
+        "Лёгкий": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Средний": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Сложный": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Профи": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        }
+      }
     },
     {
       "id": "a6a53373-edb3-4386-89b6-d4db1a03c810",
@@ -168,7 +574,36 @@
       "note": "",
       "lat": -2616.5,
       "lng": 5624.25,
-      "collectible": false
+      "collectible": false,
+      "hasRoute": true,
+      "isRace": true,
+      "route": [],
+      "race": {
+        "Лёгкий": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Средний": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Сложный": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Профи": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        }
+      }
     },
     {
       "id": "431f66de-5a5c-4c2e-96b8-f5e779880f03",
@@ -177,7 +612,36 @@
       "note": "",
       "lat": -3070.5,
       "lng": 5110.75,
-      "collectible": false
+      "collectible": false,
+      "hasRoute": true,
+      "isRace": true,
+      "route": [],
+      "race": {
+        "Лёгкий": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Средний": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Сложный": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Профи": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        }
+      }
     },
     {
       "id": "53115224-096e-4bbd-98b1-6bd50b4a124a",
@@ -186,7 +650,36 @@
       "note": "",
       "lat": -5687.25,
       "lng": 4509.75,
-      "collectible": false
+      "collectible": false,
+      "hasRoute": true,
+      "isRace": true,
+      "route": [],
+      "race": {
+        "Лёгкий": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Средний": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Сложный": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Профи": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        }
+      }
     },
     {
       "id": "c0f14eed-0164-4ce7-a109-307d5735addb",
@@ -195,7 +688,36 @@
       "note": "",
       "lat": -5949.5,
       "lng": 3593.75,
-      "collectible": false
+      "collectible": false,
+      "hasRoute": true,
+      "isRace": true,
+      "route": [],
+      "race": {
+        "Лёгкий": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Средний": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Сложный": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Профи": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        }
+      }
     },
     {
       "id": "d38d6542-5214-43f2-a9d4-e9c01b247f3d",
@@ -204,7 +726,36 @@
       "note": "",
       "lat": -5471,
       "lng": 4066.5,
-      "collectible": false
+      "collectible": false,
+      "hasRoute": true,
+      "isRace": true,
+      "route": [],
+      "race": {
+        "Лёгкий": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Средний": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Сложный": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Профи": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        }
+      }
     },
     {
       "id": "a6d11094-d37d-483f-a5e1-a3af0ba5d5dd",
@@ -213,7 +764,36 @@
       "note": "",
       "lat": -5481.75,
       "lng": 1840,
-      "collectible": false
+      "collectible": false,
+      "hasRoute": true,
+      "isRace": true,
+      "route": [],
+      "race": {
+        "Лёгкий": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Средний": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Сложный": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        },
+        "Профи": {
+          "points": 0,
+          "seconds": 0,
+          "money": 0,
+          "xp": 0
+        }
+      }
     },
     {
       "id": "25247d5c-c2ca-47c5-a1f8-60da99ddbf33",

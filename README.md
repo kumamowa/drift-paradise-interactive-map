@@ -1,2 +1,7 @@
-# drift-paradise-map-site-stage
-Drift Paradise Interactive Map — compiled public website only.
+# Drift Paradise Interactive Map
+
+Публичная сборка интерактивной карты Drift Paradise.
+
+[Открыть карту](https://kumamowa.github.io/drift-paradise-interactive-map/)
+
+В этом репозитории находятся только файлы, необходимые для работы сайта в браузере. Исходный проект, редактор и история его разработки хранятся отдельно с закрытым доступом.

@@ -1,0 +1,318 @@
+{
+  "schemaVersion": 1,
+  "mapId": "drift-paradise",
+  "title": "Drift Paradise Interactive Map",
+  "categories": [
+    {
+      "id": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+      "name": "Race",
+      "icon": 38,
+      "color": "#ffffff"
+    },
+    {
+      "id": "405b3665-82ab-4671-90f4-3565da3670dc",
+      "name": "Car Shop",
+      "icon": 825,
+      "color": "#c5a68c"
+    },
+    {
+      "id": "efcb0b5b-1aa8-4506-82fa-d0cbc7b6d9a9",
+      "name": "Parts Shop",
+      "icon": 402,
+      "color": "#c5a68c"
+    },
+    {
+      "id": "731ae5e7-48de-407a-b3f7-1027d0509f92",
+      "name": "Sticker Shop",
+      "icon": 72,
+      "color": "#c5a68c"
+    },
+    {
+      "id": "2082b95e-b662-41b4-8062-df281c59fe2a",
+      "name": "Workshop",
+      "icon": 837,
+      "color": "#5db6e5"
+    }
+  ],
+  "pins": [
+    {
+      "id": "7ca69b8a-e4a3-45eb-b222-4945b5acc1c9",
+      "name": "Vinewood Hills",
+      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+      "note": "",
+      "lat": -4669,
+      "lng": 3228.25,
+      "collectible": false
+    },
+    {
+      "id": "abdc5b4e-dc1d-4398-b859-7e74a9586f2b",
+      "name": "Place",
+      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+      "note": "",
+      "lat": -7258,
+      "lng": 3719.75,
+      "collectible": false
+    },
+    {
+      "id": "92efb8bc-2afe-4925-b98f-833f4621a332",
+      "name": "Vinewood Hills 2",
+      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+      "note": "",
+      "lat": -5085.75,
+      "lng": 3392,
+      "collectible": false
+    },
+    {
+      "id": "34811914-15b4-4ca8-9187-a4e376ccc2a2",
+      "name": "Terminal",
+      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+      "note": "",
+      "lat": -7510.75,
+      "lng": 4310.5,
+      "collectible": false
+    },
+    {
+      "id": "85335e03-aa52-483f-8db3-6eb965ca7718",
+      "name": "El Buro",
+      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+      "note": "",
+      "lat": -7223.5,
+      "lng": 4530.75,
+      "collectible": false
+    },
+    {
+      "id": "182d6a47-cace-4812-94fb-1f113e0a9045",
+      "name": "Vinewood Centre",
+      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+      "note": "",
+      "lat": -5296,
+      "lng": 3926,
+      "collectible": false
+    },
+    {
+      "id": "a8c9a03f-3e1a-434f-8160-0941d1c7bae7",
+      "name": "Pacific Blaffs Gas",
+      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+      "note": "",
+      "lat": -5776.5,
+      "lng": 2386.25,
+      "collectible": false
+    },
+    {
+      "id": "ae1abbb6-4aa8-41a8-9ee8-1504d7f8d372",
+      "name": "Rockford Hills",
+      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+      "note": "",
+      "lat": -5341.5,
+      "lng": 3042.25,
+      "collectible": false
+    },
+    {
+      "id": "0f841ef8-80c4-495d-af67-d5a962951af0",
+      "name": "Strawberry",
+      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+      "note": "",
+      "lat": -6351.25,
+      "lng": 3683.25,
+      "collectible": false
+    },
+    {
+      "id": "5f9de276-0b47-47ae-affa-66d972ee0e63",
+      "name": "Chumash",
+      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+      "note": "",
+      "lat": -4745.75,
+      "lng": 1721,
+      "collectible": false
+    },
+    {
+      "id": "ea4309c9-fe5f-4fa8-b081-33257bccdd66",
+      "name": "Jindjer Street",
+      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+      "note": "",
+      "lat": -6191,
+      "lng": 3225,
+      "collectible": false
+    },
+    {
+      "id": "0b9595d8-396d-466a-ab3e-8f9e98450135",
+      "name": "Seul",
+      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+      "note": "",
+      "lat": -5970.5,
+      "lng": 3394.75,
+      "collectible": false
+    },
+    {
+      "id": "21d4b448-048c-4482-9367-372e8fc587ee",
+      "name": "Vinewood",
+      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+      "note": "",
+      "lat": -5034,
+      "lng": 4456.75,
+      "collectible": false
+    },
+    {
+      "id": "a593cf75-cd0e-4bde-9750-294cd0a71eb3",
+      "name": "Highway",
+      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+      "note": "",
+      "lat": -4676.75,
+      "lng": 4865.5,
+      "collectible": false
+    },
+    {
+      "id": "a6a53373-edb3-4386-89b6-d4db1a03c810",
+      "name": "Sun-Shine",
+      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+      "note": "",
+      "lat": -2616.5,
+      "lng": 5624.25,
+      "collectible": false
+    },
+    {
+      "id": "431f66de-5a5c-4c2e-96b8-f5e779880f03",
+      "name": "Freeride Sandy",
+      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+      "note": "",
+      "lat": -3070.5,
+      "lng": 5110.75,
+      "collectible": false
+    },
+    {
+      "id": "53115224-096e-4bbd-98b1-6bd50b4a124a",
+      "name": "Casino",
+      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+      "note": "",
+      "lat": -5687.25,
+      "lng": 4509.75,
+      "collectible": false
+    },
+    {
+      "id": "c0f14eed-0164-4ce7-a109-307d5735addb",
+      "name": "Pillbox Hill",
+      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+      "note": "",
+      "lat": -5949.5,
+      "lng": 3593.75,
+      "collectible": false
+    },
+    {
+      "id": "d38d6542-5214-43f2-a9d4-e9c01b247f3d",
+      "name": "Spot 856",
+      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+      "note": "",
+      "lat": -5471,
+      "lng": 4066.5,
+      "collectible": false
+    },
+    {
+      "id": "a6d11094-d37d-483f-a5e1-a3af0ba5d5dd",
+      "name": "Pacific Blaffs",
+      "categoryId": "984c8c80-5376-4b3d-b2f4-40dabb030779",
+      "note": "",
+      "lat": -5481.75,
+      "lng": 1840,
+      "collectible": false
+    },
+    {
+      "id": "25247d5c-c2ca-47c5-a1f8-60da99ddbf33",
+      "name": "Car Shop",
+      "categoryId": "405b3665-82ab-4671-90f4-3565da3670dc",
+      "note": "",
+      "lat": -6260.5,
+      "lng": 3724.75,
+      "collectible": false
+    },
+    {
+      "id": "7d394251-898c-415f-9194-1f94d44c089e",
+      "name": "Car Shop",
+      "categoryId": "405b3665-82ab-4671-90f4-3565da3670dc",
+      "note": "",
+      "lat": -5689.5,
+      "lng": 3230,
+      "collectible": false
+    },
+    {
+      "id": "26f910ce-d94a-4990-808d-9060d7327023",
+      "name": "Parts Shop",
+      "categoryId": "efcb0b5b-1aa8-4506-82fa-d0cbc7b6d9a9",
+      "note": "",
+      "lat": -6036.75,
+      "lng": 4510.5,
+      "collectible": false
+    },
+    {
+      "id": "cae9c218-a255-4ebc-8733-e5638139317d",
+      "name": "Parts Shop",
+      "categoryId": "efcb0b5b-1aa8-4506-82fa-d0cbc7b6d9a9",
+      "note": "",
+      "lat": -5648,
+      "lng": 4108.25,
+      "collectible": false
+    },
+    {
+      "id": "ae2103d8-8415-4db1-bfa8-1cff58b6b876",
+      "name": "Parts Shop",
+      "categoryId": "efcb0b5b-1aa8-4506-82fa-d0cbc7b6d9a9",
+      "note": "",
+      "lat": -2819.75,
+      "lng": 5407.75,
+      "collectible": false
+    },
+    {
+      "id": "78df671c-ed87-4e07-b441-8a5e9069c825",
+      "name": "Sticker Shop",
+      "categoryId": "731ae5e7-48de-407a-b3f7-1027d0509f92",
+      "note": "",
+      "lat": -6837.25,
+      "lng": 3001.25,
+      "collectible": false
+    },
+    {
+      "id": "63683f5e-d3e3-412e-941b-b638863d2ef3",
+      "name": "Sticker Shop",
+      "categoryId": "731ae5e7-48de-407a-b3f7-1027d0509f92",
+      "note": "",
+      "lat": -6246,
+      "lng": 4236,
+      "collectible": false
+    },
+    {
+      "id": "cb2add5a-9dfe-4e89-b082-d1de6fac37e8",
+      "name": "Sticker Shop",
+      "categoryId": "731ae5e7-48de-407a-b3f7-1027d0509f92",
+      "note": "",
+      "lat": -5623.75,
+      "lng": 3520.25,
+      "collectible": false
+    },
+    {
+      "id": "8f201166-2900-471f-8421-92787abcc33b",
+      "name": "Sticker Shop",
+      "categoryId": "731ae5e7-48de-407a-b3f7-1027d0509f92",
+      "note": "",
+      "lat": -3783,
+      "lng": 4532.5,
+      "collectible": false
+    },
+    {
+      "id": "dbf5e62a-893f-469a-9ad9-aafddb0fa5dc",
+      "name": "Sticker Shop",
+      "categoryId": "731ae5e7-48de-407a-b3f7-1027d0509f92",
+      "note": "",
+      "lat": -1165.75,
+      "lng": 3825.5,
+      "collectible": false
+    },
+    {
+      "id": "efccecc9-0eff-4307-988b-81ef977eced6",
+      "name": "Workshop",
+      "categoryId": "2082b95e-b662-41b4-8062-df281c59fe2a",
+      "note": "",
+      "lat": -7097.75,
+      "lng": 3315.25,
+      "collectible": false
+    }
+  ]
+}

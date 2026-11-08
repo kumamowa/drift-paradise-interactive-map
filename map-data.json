@@ -38,6 +38,12 @@
       "name": "Vehicles",
       "icon": 147,
       "color": "#d6c499"
+    },
+    {
+      "id": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "name": "Collectibles",
+      "icon": 207,
+      "color": "#71cb71"
     }
   ],
   "pins": [
@@ -1446,6 +1452,402 @@
       "hasRoute": false,
       "isRace": false,
       "icon": 455
+    },
+    {
+      "id": "a1927b8c-1fca-4bdb-88f5-bf1424643140",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -6036.5,
+      "lng": 3330.5,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "ceba1c2d-4277-4355-a27d-e4ce0ca6c8f7",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -6344.5,
+      "lng": 2925.75,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "346a8bf9-2b12-401e-aca6-4deb1795939b",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -5394.5,
+      "lng": 4193.25,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "7086f34a-dafd-443c-a1f2-bb093ef32a71",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -6511.75,
+      "lng": 3922.75,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "72ecf8b4-cbfe-4ee0-a041-03880bd1d4fa",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -6116.5,
+      "lng": 2623.5,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "2cc8e2d6-ea9a-4b71-830c-549309edb227",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -7274.75,
+      "lng": 3648.5,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "ab58bee0-e222-4b7e-8208-94a5bdd48701",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -5667.75,
+      "lng": 3719.75,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "a4be4f77-6358-4ee6-bbdc-e8964cee8972",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -5453.25,
+      "lng": 4073,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "1bcc8288-dfff-4398-9995-82a022cfca51",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -6361.5,
+      "lng": 3943.25,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "dd746fc3-0c6d-4aef-950b-aea0c15010c2",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -6022.25,
+      "lng": 3961,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "0f0848bd-64f2-46b5-8c43-b4cacc6bc8a7",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -6417,
+      "lng": 4262,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "531a66d8-a3a4-4a3e-939e-155ebd22985d",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -6000.5,
+      "lng": 4262.5,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "682cff66-4392-4320-ad55-d29a1ee5ae08",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -6912.25,
+      "lng": 4447,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "d4a3ce99-25ff-417b-b2d6-c61bbaf26b84",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -6601.25,
+      "lng": 4608.5,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "d465829b-7139-4569-99ce-06c4cb06beaf",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -5980.5,
+      "lng": 4592.25,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "a13af176-07fd-4f41-ac1c-3574f0148e0f",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -5616.5,
+      "lng": 4395.25,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "cb68e217-a698-49a2-aa5b-a18844805d25",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -5842,
+      "lng": 2309.75,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "2fc678bb-dc14-4c7b-8cad-7e2417c202bf",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -5962.75,
+      "lng": 4557,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "8e6951bc-ecd1-4f4c-afe2-b4ee924c593e",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -5701.25,
+      "lng": 4312,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "89076256-2a45-4487-bd79-c011afd989a3",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -5911.25,
+      "lng": 4062.25,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "dc5262d9-5de9-41b2-b9ee-bf20bc6d4919",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -7719.25,
+      "lng": 4570.5,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "2f0cc98a-9ebf-4bce-9cc2-48fcb4ac72ad",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -7208,
+      "lng": 3957.5,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "16efd2de-4855-462a-8599-930fa9dd3dc7",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -6842.25,
+      "lng": 3907.75,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "49aca45f-8da1-45ac-aef6-ee45586c9608",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -6852.5,
+      "lng": 3282.5,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "19be8b5e-74eb-4238-8e76-86b3b886d1ab",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -7157.25,
+      "lng": 3202,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "bda97de1-4d79-4bee-b313-c7c8802975f6",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -7412.5,
+      "lng": 2996.75,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "f1a4507c-f48b-421d-8719-2bdee6da130a",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -6436,
+      "lng": 3250.75,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "77e9a5a6-70e7-4c8c-a842-d78d982c33f4",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -5783.5,
+      "lng": 2949.75,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "611602d3-699d-4747-a8d3-012699e39d21",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -5808,
+      "lng": 2620,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "7cef8da9-1902-4e5a-aecf-d0a8d8eb5224",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -5399.5,
+      "lng": 2521,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "3cd49395-f718-45d9-85fc-642804bc1454",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -5437.75,
+      "lng": 2869.5,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "73f45f7c-69bd-46cc-82dc-d28bddbbe1b0",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -5394.5,
+      "lng": 3358.75,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "6103aa7f-9d4c-4fc7-814e-9d0d8403904f",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -5715.5,
+      "lng": 3309.25,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "9bdf0d0a-2823-46a6-a761-64ea8ca254cb",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -6078,
+      "lng": 3782.75,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "12d58c11-a233-4fdb-aef1-a67b314abb89",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -6484,
+      "lng": 3558.25,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
+    },
+    {
+      "id": "f31701ef-4302-4113-a770-8c712e33ac86",
+      "name": "Pickup",
+      "categoryId": "8a7ee749-d7b2-49dd-8c3d-50a49d67a3d4",
+      "note": "",
+      "lat": -5575.5,
+      "lng": 3775.25,
+      "collectible": true,
+      "hasRoute": false,
+      "isRace": false
     }
   ]
 }
